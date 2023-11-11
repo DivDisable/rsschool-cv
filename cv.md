@@ -2,7 +2,7 @@
 
 ## Contacts:
 - [My github](https://github.com/DivDisable)
-- [My e-mail](millerite96@gmail.com)
+- millerite96@gmail.com
 
 ## About
 
@@ -41,5 +41,5 @@ I graduated from medicine university (SSMU, Tomsk) and pre-rss-school.
 
 ## Language
 
-I have B1 english. But mostly I just speak docs and don't have speaking
+I have B1 english. But mostly I just read docs and don't have speaking
 practice.
