@@ -31,4 +31,15 @@ function divideSum (sum, num) {
 
 divideSum(sumTwoDigits(2)(2), 2);
 ```
+## Work Experience
 
+I don't have work Experience like web developer.
+
+## Education
+
+I graduated from medicine university (SSMU, Tomsk) and pre-rss-school.
+
+## Language
+
+I have B1 english. But mostly I just speak docs and don't have speaking
+practice.
